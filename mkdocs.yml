@@ -1,0 +1,5 @@
+site_name: 17627 Requirements for Embedded Systems
+nav:
+  - Home: index.md
+  - About: syllabus.md
+theme: readthedocs
